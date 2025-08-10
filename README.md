@@ -176,7 +176,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-* Email: [kajalpanjeta@gamil.com](mailto:kajalpanjeta@gmail.com)
+* Email: [kajalpanjeta3@gamil.com](mailto:kajalpanjeta3@gmail.com)
 * GitHub Issues: [Create an issue](https://github.com/kajalpanjeta/job-board/issues)
 * Feature Requests: Use GitHub Discussions or issues
 
