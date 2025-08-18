@@ -1,12 +1,13 @@
-**Code of Conduct for Job Board – GSSoC'25 Open Source Contribution**
+# Contributor Covenant Code of Conduct
 
-**Our Commitment**
+## Our Commitment 
+
 
 The Job Board project under GirlScript Summer of Code (GSSoC'25) serves as a platform to bridge the gap between talent and opportunity through open-source collaboration. We are committed to maintaining a professional, inclusive, and respectful environment where all contributors can thrive. We value respectful interactions and meaningful contributions from all participants, regardless of experience level or background.
 
 ---
 
-**Purpose**
+## Purpose
 
 This document establishes guidelines for acceptable behavior within the Job Board project community. Our goal is to create a space where contributors feel safe, valued, and empowered to collaborate effectively. By participating in this project, you agree to uphold these standards and contribute to a positive development environment.
 
@@ -34,7 +35,7 @@ The following actions will not be tolerated:
 
 ---
 
-***Community Values***
+## Community Values 
 
 We grow together when we:
 - Respect diverse views, experiences, and cultures.
@@ -45,7 +46,7 @@ We grow together when we:
 
 ---
 
-***Where This Applies***
+## Where This Applies
 
 These guidelines govern conduct in all project-related spaces including:
 - GitHub repositories (issues, PRs, discussions)
@@ -67,7 +68,7 @@ If you experience or witness violations:
 
 ---
 
-***Consequences***
+## Consequences
 
 Violations may result in:
 - Formal warning and education about expectations
@@ -77,7 +78,7 @@ Violations may result in:
 
 ---
 
-***Conflict Resolution***
+## Conflict Resolution
 
 We encourage:
 - Direct, respectful communication to resolve misunderstandings
@@ -86,7 +87,7 @@ We encourage:
 
 ---
 
-***Contributor Expectations***
+## Contributor Expectations
 
 When contributing to Job Board, we expect you to:
 - ✔️ Be respectful and inclusive in all interactions  
@@ -97,7 +98,7 @@ When contributing to Job Board, we expect you to:
 
 ---
 
-***Attribution & Adaptations***
+## Attribution & Adaptations
 
 This Code of Conduct is adapted from the [Contributor Covenant (v3.0)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/), with *modifications specific to the Job Board project under GirlScript Summer of Code (GSSoC'25).* It has been customized to reflect the project’s focus on sustainability, ethical collaboration, and inclusive open-source contribution.
 
@@ -107,7 +108,7 @@ Enforcement guidelines inspired by [Mozilla’s code of conduct enforcement ladd
 
 ---
 
-***Job-Board Vision***
+## Job-Board Vision 
 
 The Job Board project represents more than just code - it's a community built on mutual respect and shared goals. By contributing here, you become part of an effort to democratize career opportunities through open-source technology. *Let's work together to maintain the highest standards of professionalism and inclusion. Through collaborative development and mutual respect, we can build tools that benefit the entire tech community.*
 
