@@ -1,3 +1,5 @@
+
+
 # 💼 Job Board Application
 
 **Job Board** is a full-stack platform for posting, browsing, and applying for jobs, with geolocation-based features like finding nearby job listings. This project uses **Java Spring Boot** for the backend and will use **React** for the frontend (under development).
@@ -5,6 +7,8 @@
 🚀 \[Live Demo (Coming Soon)] • 📖 Documentation • 🐛 Report Bug • 💡 Request Feature
 
 ---
+
+<a name="top"></a>
 
 ## 🌟 Overview
 
@@ -188,3 +192,12 @@ This project is licensed under the MIT License.
 * PostgreSQL + PostGIS for geospatial features
 * Swagger for API documentation
 * React (planned) for modern frontend development
+
+<p align="center">
+     <a href="#top" 
+     style="background:#0366d6;color:#fff;padding:6px 12px;
+               text-decoration:none;border-radius:5px;font-size:12px;
+               transition:all 0.3s ease;">
+     ⬆ Back to Top
+     </a>
+</p>
